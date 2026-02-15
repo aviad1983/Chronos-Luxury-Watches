@@ -1,0 +1,9 @@
+
+{
+  "name": "Chronos Luxury Watches",
+  "description": "היעד המוביל לשעוני יוקרה. מגוון שעוני רולקס, אומגה ופאטק פיליפ עם משלוח VIP מבוטח עד הבית. ייעוץ אישי מבוסס בינה מלאכותית.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
